@@ -1,7 +1,14 @@
-body{
-    background: #ffffff;
-   
+h1 {
+  font-size: 100px;
 }
-.portfolio{
+
+h2 {
+    font-size: 70px;
+}
+
+body {
+    background: #ffffff;
+}
+.portfolio {
     padding-bottom: 15px;
 }
