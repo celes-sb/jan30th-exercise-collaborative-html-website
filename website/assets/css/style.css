@@ -1,3 +1,13 @@
-body{
-    background: #BDBDBD;
+body {
+    background: white;
+}
+
+#email {
+    background-color: whitesmoke;
+    border-radius: 1px;
+}
+
+#contact {
+    border-radius: 1px;
+    border-color: lightgray;
 }
