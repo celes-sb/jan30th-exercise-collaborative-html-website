@@ -7,17 +7,18 @@ body {
     border-color: lightgray;
 }
 
-h1 {
-  font-size: 100px;
+#h1 {
+  font-size: 140px;
 }
 
-h2 {
-    font-size: 70px;
+#h2 {
+    font-size: 80px;
 }
 
 body {
     background: #ffffff;
 }
+
 .portfolio {
     padding-bottom: 15px;
 }
