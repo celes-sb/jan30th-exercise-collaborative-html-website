@@ -1,3 +1,25 @@
-body{
-    background: #BDBDBD;
+
+body {
+    background: white;
 }
+
+#contact {
+    border-color: lightgray;
+}
+
+#h1 {
+  font-size: 140px;
+}
+
+#h2 {
+    font-size: 80px;
+}
+
+body {
+    background: #ffffff;
+}
+
+.portfolio {
+    padding-bottom: 15px;
+}
+
